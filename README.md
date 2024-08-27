@@ -31,3 +31,13 @@ In today's competitive job market, retaining the best staff is critical to succe
 ## Data Visualization
 
 ![](HR.jpg)
+
+## Key Takeaways
+
+Most survey participants were aged 26 to 35. This age group had twice as many respondents (115) as all other age groups combined With 58.08%, males were the majority gender in the survey. 
+- Demographic Factors: The data suggests that Male employees have a higher attrition rate than female employees,while a higher attrition rate among younger employees within the age band 25-34.
+- Educational Background: Employees with Bachelor Degree Level 41.7%  have a higher percentage of leaving the organization.
+- Job Role: Employees in labouratory technical service positions may experience higher turnover.
+- Work-Life Balance and Job Satisfaction: Dissatisfaction with work-life balance or job satisfaction can lead to attrition.
+- Compensation and Benefits: Inadequate compensation or benefits may drive employees away.
+- Organizational Culture: A negative or toxic work environment can impact retention.
