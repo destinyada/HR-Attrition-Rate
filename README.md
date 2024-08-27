@@ -30,4 +30,4 @@ In today's competitive job market, retaining the best staff is critical to succe
 
 ## Data Visualization
 
-![](HR.JPG)
+![](HR.jpg)
